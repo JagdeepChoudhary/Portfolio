@@ -86,4 +86,4 @@ Here are some of the core skills highlighted in my portfolio:
 
 ## Contact
 
-Feel free to reach out to me via [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/JagdeepChoudhary).
+Feel free to reach out to me via [jdchoudhary@myyahoo.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/JagdeepChoudhary).
