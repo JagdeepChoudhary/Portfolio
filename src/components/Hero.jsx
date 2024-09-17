@@ -8,6 +8,7 @@ import {
 } from "@/components/ui/card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { BackgroundBeamsWithCollision } from "./ui/background-beams-with-collision";
+import { Download } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -34,7 +35,12 @@ export default function Hero() {
           </CardContent>
           <CardFooter className="flex justify-center">
             <Button asChild size="lg" className="cursor-pointer">
-              <a href="#contact">Get in touch</a>
+              <a
+                href="https://res.cloudinary.com/dq9phb7ge/raw/upload/v1726513794/Jagdeep-CV_bjwmxb.docx"
+                download
+              >
+                Download CV <Download className="ml-2 h-4 w-4" />
+              </a>
             </Button>
           </CardFooter>
         </Card>

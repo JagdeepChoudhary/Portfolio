@@ -14,10 +14,6 @@ export default function Portfolio() {
       <div className="min-h-screen bg-background text-foreground">
         <Menubar />
         <main>
-          <Spotlight
-            className="-top-40 left-0 md:left-60 md:-top-20"
-            fill="white"
-          />
           <Hero />
           <Projects />
           <Skills />
@@ -25,7 +21,6 @@ export default function Portfolio() {
         </main>
         <Footer />
       </div>
-      <ShootingStars />
     </ThemeProvider>
   );
 }

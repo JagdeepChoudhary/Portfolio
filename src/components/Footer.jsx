@@ -11,21 +11,21 @@ export default function Footer() {
         </div>
         <div className="flex gap-4 mr-2">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/JagdeepChoudhary"
             target="_blank"
             rel="noreferrer"
           >
             <Github className="h-5 w-5" />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/JagdeepChoudhary"
             target="_blank"
             rel="noreferrer"
           >
             <Linkedin className="h-5 w-5" />
           </a>
           <a
-            href="https://twitter.com/yourusername"
+            href="https://x.com/jd_choudhary_"
             target="_blank"
             rel="noreferrer"
           >
